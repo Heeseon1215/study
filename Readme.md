@@ -1,8 +1,40 @@
-
 수업을 들으면서 배운 내용들을 요약 기록한 곳입니다.
 수업 내용 정리는 아래 링크(노션)에서 확인 가능합니다. 
 https://small-slug-1ef.notion.site/STUDY-7557c6e66b3f4a18966e4e08ad02b1af
 
+## 240813
+**HTML**
+- `상대경로`에 대해 배웠다.
+- `디렉토리 구조`에 대해 배웠다.
+- github에서 `페이지`를 여는 방법에 대해 배웠다. 
+- 상대경로 연습을 위해 팀 프로젝트 작업을 진행하였다.
+
+**Figma**
+- figma의 기본 기능에 대해 배웠다
+
+## 240812
+**HTML**
+- `list` 연습과 `adress`, `anchor`, 절대경로에 대해 배웠다.
+
+**PHOTOSHOP**
+- 이미지와 동영상으로 `gif`를 만드는 방법에 대해 배웠다.
+- `선명도`를 보정하는 방법에 대해 배웠다.
+- `하프톤` 제작 방법에 대해 배웠다.
+
+## 240809
+**HTML**
+- 중첩 메뉴 `ul`과 `li`에 대해 배웠다.
+
+**PHOTOSHOP**
+- `배경합성` 방법에 대해 배웠다.
+
+## 240808
+**HTML**
+- html5 레이아웃을 구성하는 `header`, `nav`, `main`, `article`, `section`, `aside`, `footer`에 대해 배웠다.
+- 강조 `strong`, `em`과 목록태그 `ol` 그리고 콘텐츠 분할 `div`, `span`에 대해 배웠다.
+
+**PHOTOSHOP**
+- `색상보정`과 `피부보정`, `퍼펫`에 대해 배웠다.
 
 ## 240807
 **GIT**
@@ -12,7 +44,7 @@ https://small-slug-1ef.notion.site/STUDY-7557c6e66b3f4a18966e4e08ad02b1af
 **HTML**
 - `웹표준`과 `웹 접근성`에 대해 배웠다.
 - `html 기본 구조`를 복습하였다.
-- 제목태그 `h1`, `h2`, `h3` 등의 사용 방법을 배웠다.
+- `제목태그`,`p` 태그 사용 방법을 배웠다.
 
 **PHOTOSHOP**
 -  `properties` , `Color Range`, `자르기 툴`에 대해 배웠다.
@@ -70,7 +102,7 @@ https://small-slug-1ef.notion.site/STUDY-7557c6e66b3f4a18966e4e08ad02b1af
 ## 240723
 **GIT**
 - `git 상대경로` 찾아가는 방법과 마크다운에 대해 배웠다.
--  `vim` 에디터 사용하는 법에 대해 배웠다.
+- `vim` 에디터 사용하는 법에 대해 배웠다.
 
 **PHOTOSHOP & ILLUSTRATOR**
 - 비트맵과 벡터의 차이에 대해 배웠다.
