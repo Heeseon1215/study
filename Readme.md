@@ -2,6 +2,150 @@
 수업 내용 정리는 아래 링크(노션)에서 확인 가능합니다. 
 https://small-slug-1ef.notion.site/STUDY-7557c6e66b3f4a18966e4e08ad02b1af
 
+## 240909
+**css**
+- background에 img를 넣는 방법에 대해 배웠다.
+- background에서 img의 `position`과 `size`, `배경 중첩`, `repeat`, `attachment`에 대해 배웠다.
+
+**Figma**
+- 필라이즈 홈페이지의 Service Pattern을 분석 후 제작하였다.
+
+## 240906
+**css**
+- `inline-flex` 에 대해 배웠다.
+- `수열선택자`에 대해 배웠다.
+
+**Figma**
+- 필라이즈 홈페이지의 Pattern을 분석 후 제작하였다.
+
+## 240905
+**css**
+- flex 태그 활용 연습을 진행하였다.
+
+**Figma**
+- 필라이즈 홈페이지의 componet를 분석 후 제작하였다.
+
+## 240904
+**css**
+- flex 태그 활용 연습을 진행하였다.
+
+**Figma**
+- 필라이즈 홈페이지의 Design style guide를 분석 후 제작하였다.
+
+## 240903
+**css**
+- flex 태그 활용 연습을 진행하였다.
+
+**Figma**
+- 팀프로젝트 발표를 진행하였다.
+- KRDS의 UI/UX에 맞춘 가이드 라인 제작을 위한 어플리케이션을 찾아보았다.
+
+## 240902
+**css**
+- flex 관련 태그 `flex-direction`, `flex-wrapper`, `flex-flow`, `gap`, `justify-content`, `align-item`, `align-content`, `align-self`에 대해 배웠다.
+
+**Figma**
+- 불러온 데스크톱 홈페이지를 응용하였다.
+- KRDS의 UI/UX 가이드라인 중 스타일 가이드 요약 팀프로젝트를 진행하였다.
+
+## 240829
+**css**
+- `em` 단위와 `rem`, `viewport` 단위에 대해 배웠다.
+- display 태그 연습을 진행하였다.
+
+**Figma**
+- 모작한 모바일 버전과 아이패드 버전의 홈페이지를 응용하였다.
+
+## 240828
+**css**
+- 요소의 실제 크기를 계산하는 방법에 대해 배웠다.
+- 요소의 성격을 변경하는 `display`와 `visivility`, `opacity`에 대해 배웠다.
+-  `box-sizing`과 `list-style 축약형`에 대해 배웠다.
+
+**Figma**
+- 피그마에 홈페이지를 불러오는 방법에 대해 배웠다.
+- 모작한 페이지를 응용할 홈페이지를 찾아보았다.
+- 응용한 홈페이지의 design style guide를 작업하였다.
+- 응용한 홈페이지의 components를 작업하였다.
+
+## 240827
+**css**
+- `formstyle`을 연습하였다.
+
+**Figma**
+- 아이패드 버전의 홈페이지를 모작하였다.
+
+## 240826
+**css**
+- margin과 padding 연습을 진행하였다.
+- `overflow`를 통해 넘치는 컨텐츠를 제어하는 방법을 배웠다.
+- img에 overflow를 하는 방법에 대해 배웠다.
+
+**Figma**
+- 모바일 버전의 홈페이지를 모작하였다.
+
+## 240823
+**css**
+- `border-radius`와 `margin`, `블록요소 중앙정렬`, `padding`, `border`에 대해 배웠다.
+
+**Figma**
+- 따라 만들 홈페이지의 component 작업을 진행하였다.
+
+## 240822
+**css**
+- formStyle인 `form event`와 `checked`, `progress`, `range`에 대해 배웠다.
+- `mouse event`에 대해 배웠다.
+- `width`와 `height`로 가로영역과 세로영역을 조절하는 방법에 대해 배웠다.
+
+**Figma**
+- 따라 만들 홈페이지의 `design style guide`와 `wireframe 분석`을 진행하였다
+
+## 240821
+**css**
+- `font 속성`에 대해 배웠다.
+- `text 속성`에 대해 배웠다.
+- 인라인 세로 정렬방식 `vertical-align`에 대해 배웠다.
+
+**Figma**
+- figma 연습을 위해 따라 만들어볼 홈페이지를 서치하였다.
+
+## 240820
+**css**
+- `css 선언` 방법에 대해 배웠다.
+- css 속성 `우선순위`에 대해 배웠다
+- `글자 색상`을 주는 방법에 대해 배웠다.
+
+**Figma**
+- `component 활용 방법`에 대해 배웠다.
+- `이미지 슬라이드`를 주는 방법을 배웠다
+- 메가커피 모바일 페이지를 따라 만드는 작업을 진행하였다.
+
+## 240819
+**HTML**
+- `favicon`을 만들고 연결하는 방법에 대해 배웠다.
+- `meta`태그에 대해 배우고 `Opne Graph`를 확인하였다.
+- `video`와 `audio`에 대해 배웠다.
+- form 태그 연습을 진행하였다.
+
+**Figma**
+- `Prototype` 연결하는 방법에 대해 배웠다.
+
+## 240816
+**HTML**
+- form 관련 태그인 `filedset`,  `label` , `input`, `텍스트 박스` ,`라디오버튼`,  `드롭다운`, `체크박스 버튼`, `파일 첨부`, `날짜`, `이메일`, `url`, `검색`, `범위`, `숫자`, `전화` 태그에 대해 배웠다.
+
+**Figma**
+- `auto layout`과 `component`, `Variant`에 대해 배웠다.
+
+## 240814
+**HTML**
+- `img` 를 넣는 방법에 대해 배웠다.
+- 같은 페이지에서 특정 위치로 이동 하는 방법에 대해 배웠다.
+- 상대경로 연습을 진행하였다.
+
+**Figma**
+- `auto layout`과 `component`, `Variant`에 대해 배웠다.
+
 ## 240813
 **HTML**
 - `상대경로`에 대해 배웠다.
