@@ -17,6 +17,8 @@ https://small-slug-1ef.notion.site/STUDY-7557c6e66b3f4a18966e4e08ad02b1af
 
 **Figma**
 - 필라이즈 홈페이지의 Pattern을 분석 후 제작하였다.
+- UI/UX 디자인 개요에 대해 배웠다
+- ios와 android의 차이, 디자인에 대해 배웠다.
 
 ## 240905
 **css**
