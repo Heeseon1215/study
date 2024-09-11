@@ -7,7 +7,7 @@ https://small-slug-1ef.notion.site/STUDY-7557c6e66b3f4a18966e4e08ad02b1af
 - html `layout` 잡는 방법과 css `reset`방법, 작업 방법에 대해 배웠다. 
 - `wireframe 분석`을 진행한 사이트의 `layout`작업을 완성하였다.
 
-- **팀프로젝트**
+**팀프로젝트**
 - 리뉴얼할 어플의 타깃층과 장단점을 분석하였다.
 
 ## 240910
