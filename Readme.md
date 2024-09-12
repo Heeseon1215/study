@@ -1,14 +1,21 @@
 수업을 들으면서 배운 내용들을 요약 기록한 곳입니다.
-수업 내용 정리는 아래 링크(노션)에서 확인 가능합니다. 
-https://small-slug-1ef.notion.site/STUDY-7557c6e66b3f4a18966e4e08ad02b1af
+
+## 240912
+**html&css**
+- 홈페이지 제작을 위한 `css` 작성 방법에 대해 배웠다.
+- 사이트 하나를 html 구조부터 css 까지 따라 하는 연습을 진행하였다.
+
+**팀프로젝트**
+- 리뉴얼 할 어플의 `SWOT`분석과 `디자인`, `UI`를 분석하였다.
 
 ## 240911
+**html&css**
 - `gradient`에 대해 배웠다.
-- html `layout` 잡는 방법과 css `reset`방법, 작업 방법에 대해 배웠다. 
+- html `layout` 잡는 방법과 css `reset`방법과 작업 방법에 대해 배웠다. 
 - `wireframe 분석`을 진행한 사이트의 `layout`작업을 완성하였다.
 
 **팀프로젝트**
-- 리뉴얼할 어플의 타깃층과 장단점을 분석하였다.
+- 리뉴얼할 어플의 `타깃층`과 `장단점`을 분석하였다.
 
 ## 240910
 **css**
@@ -16,7 +23,7 @@ https://small-slug-1ef.notion.site/STUDY-7557c6e66b3f4a18966e4e08ad02b1af
 - `wireframe 분석`을 진행한 사이트의 `layout`작업을 시작하였다.
 
 **팀프로젝트**
-- 리뉴얼할 어플을 찾아보고 선정하였다.
+- 리뉴얼할 `어플`을 찾아보고 `선정`하였다.
 
 ## 240909
 **css**
@@ -24,7 +31,7 @@ https://small-slug-1ef.notion.site/STUDY-7557c6e66b3f4a18966e4e08ad02b1af
 - background에서 img의 `position`과 `size`, `배경 중첩`, `repeat`, `attachment`에 대해 배웠다.
 
 **Figma**
-- 필라이즈 홈페이지의 Service Pattern을 분석 후 제작하였다.
+- 필라이즈 홈페이지의 `Service Pattern`을 분석 후 제작하였다.
 
 ## 240906
 **css**
@@ -32,27 +39,27 @@ https://small-slug-1ef.notion.site/STUDY-7557c6e66b3f4a18966e4e08ad02b1af
 - `수열선택자`에 대해 배웠다.
 
 **Figma**
-- 필라이즈 홈페이지의 Pattern을 분석 후 제작하였다.
+- 필라이즈 홈페이지의 `Pattern`을 분석 후 제작하였다.
 - UI/UX 디자인 개요에 대해 배웠다
 - ios와 android의 차이, 디자인에 대해 배웠다.
 
 ## 240905
 **css**
-- flex 태그 활용 연습을 진행하였다.
+- `flex` 태그 활용 연습을 진행하였다.
 
 **Figma**
-- 필라이즈 홈페이지의 componet를 분석 후 제작하였다.
+- 필라이즈 홈페이지의 `component`를 분석 후 제작하였다.
 
 ## 240904
 **css**
-- flex 태그 활용 연습을 진행하였다.
+- `flex` 태그 활용 연습을 진행하였다.
 
 **Figma**
-- 필라이즈 홈페이지의 Design style guide를 분석 후 제작하였다.
+- 필라이즈 홈페이지의 `Design style guide`를 분석 후 제작하였다.
 
 ## 240903
 **css**
-- flex 태그 활용 연습을 진행하였다.
+- `flex` 태그 활용 연습을 진행하였다.
 
 **Figma**
 - 팀프로젝트 발표를 진행하였다.
@@ -60,7 +67,7 @@ https://small-slug-1ef.notion.site/STUDY-7557c6e66b3f4a18966e4e08ad02b1af
 
 ## 240902
 **css**
-- flex 관련 태그 `flex-direction`, `flex-wrapper`, `flex-flow`, `gap`, `justify-content`, `align-item`, `align-content`, `align-self`에 대해 배웠다.
+- `flex` 관련 태그 `flex-direction`, `flex-wrapper`, `flex-flow`, `gap`, `justify-content`, `align-item`, `align-content`, `align-self`에 대해 배웠다.
 
 **Figma**
 - 불러온 데스크톱 홈페이지를 응용하였다.
