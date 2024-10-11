@@ -2,7 +2,7 @@
 
 ## 241011
 **html&css**
--`gird` 속성 `정렬` `auto-fill` `auto-fit`에 대해 배웠다.
+- `gird` 속성 `정렬` `auto-fill` `auto-fit`에 대해 배웠다.
 - `gird` 예제를 진행하며 다양한 grid 방법에 대해 배웠다.
 
 **팀프로젝트**
