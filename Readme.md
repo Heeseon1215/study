@@ -147,7 +147,7 @@
 - 상세 페이지 `디자인` 작업
 
 ## 241107
-**javaScript / jQuery **
+** javaScript / jQuery **
 - 여러 `event`에 대해 배웠다.
 - `jQuery`기본에 대해 배웠다
 - `selector`에 대해 배웠다.
