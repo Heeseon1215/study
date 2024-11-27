@@ -2,142 +2,176 @@
 
 
 ## 241127
-**javaScript**
-- ``
+**GSAP**
+- GSAP 활용 페이지 연습을 하였다.
+  - jQuery each 활용문
+  - 스크롤 트리거
+  - `formto` 및 `tofrom` 
 
 **portfolio**
-- 오설록 `퍼블리싱 완료` 
-- 오설록 `상세페이지` 디자인
-
+- 오설록 `퍼블리싱 완료`
+  - 사진 -> 영상으로 수정
+  - css 애니메이션 추가 
+- 오설록 `상세페이지` 디자인 시작
   
 ## 241126
-**javaScript**
-- ``
+**GSAP**
+- `loder` 제작해보았다.
+- `GSAP` 활용 페이지 연습 하였다.
 
 **portfolio**
 - 오설록 `PC 퍼블리싱` 중
-
+  - `hover` 효과 변경
+  - 이미지 확대 방식 변경
+  - 스와이퍼 `auto` 고민
+  - `aos` 이용
   
 ## 241125
-**javaScript**
-- ``
+**GSAP**
+- `GSAP` 설치를 하였다.
+- `GSAP` 기본에 대해 배웠다.
 
 **portfolio**
 - 오설록 `모바일 퍼블리싱` 완료
+- 오설록 `PC 퍼블리싱` 시작
 
-  
 ## 241122
-**javaScript**
-- 
+**jQuery**
+- `requestAnimationFrame` 사용 방법에 대해 배웠다.
+- `parallax`에 대해 배우고 활용 연습을 하였다.
+- `가로 스크롤` 방법에 대해 배웠다.
 
 **portfolio**
 - 오설록 `모바일 퍼블리싱`
-
+  - 웹폰트 `경로` 수정 -> 경로 확인 잘하기!
+  - 스와이퍼 번들 연결 X -> 추가
   
 ## 241121
-**javaScript**
-- ``
+**jQuery**
+- `swiper`활용 연습을 하였다.
+- `reize` 속성에 대해 배웠다.
+-  `마우스 좌표`를 구하는 방법에 대해 배웠다.
   
-
 **portfolio**
-- ``
+- 오설록 `모바일 퍼블리싱`
+  - `모바일 헤더` 반응형 작업
+  - `main-introduce` 작업중
+  - `웹폰트` 연결
 
   
 ## 241120
-**javaScript**
-- ``
-- 
+**jQuery**
+- `swiper`에 대해 배웠다
+- `swiper` 제작 및 활용 방법에 대해 배웠다.
+- `vegas` 사용 방법에 대해 배웠다.
 
 **portfolio**
 - 오설록 `모바일 퍼블리싱`
-
+  - `파비콘` 작업
+  - `og` 작업 및 `url` 연결
+  - `css 변수` 작성 
   
 ## 241119
-**javaScript**
-- ``
+**jQuery**
+- `scrollY`속성에 대해 배웠다.
+- `scroll`을 활용한 예제에 대해 연습하였다.
 
 **portfolio**
 - 오설록 `모바일 디자인` 완료
-
+  - `여백 간격` 수정
+  - 색 변경 
   
 ## 241118
-**javaScript**
-- ``
+**jQuery**
+- `scroll`에 대해 배웠다.
+- `scroll` 활용 방법에 대해 배웠다.
+- `window` 객체 사이즈 계산 방법에 대해 배웠다.
 
-  
 **portfolio**
+- 프로젝트 선정
 - 오설록 `PC버전 디자인` 완료
 
-  
 ## 241115
-**javaScript**
-- ``
+**jQuery**
+- `animate` 활용에 대해 연습하였다.
+- `slide`를 활용한 메뉴 만들기 연습을 진행하였다.
 
 **portfolio**
 - 내 캘린더 상세 페이지 `퍼블리싱`
 
-  
 ## 241114
-**javaScript**
-- 상세 페이지  `퍼블리싱`
-
-  
+**jQuery**
+- jQuery의 `animate`에 대해 배웠다.
+- `animate` 활용 방법에 대해 배웠다.
+- `delay` 속성에 대해 배웠다.
 
 **portfolio**
 - 상세 페이지  `퍼블리싱`
-
   
 ## 241113
-**javaScript**
-- ``
+**jQuery**
+- `hasClass`에 대해 배웠다.
+- `class` 활용 예제를 연습하였다 
+- `prependTo+appendTo`에 대해 배우고 활용 예제를 작업해보았다.
 
 **portfolio**
 -상세 페이지  `퍼블리싱`
 
-  
 ## 241112
-**javaScript**
-- ``
+**jQuery**
+- `html` 구조를 가져오는 방식에 대해 배웠다.
+- `width`와 `height`에 대해 배웠다.
+- `attr` 속성에 대해 배우고 활용 방법에 대해 배웠다.
+- `add, remove, toggle Class`에 대해 배웠다.
+- `toggle Class` 활용 방법에 대해 배웠다.
 
 **portfolio**
 - 상세 페이지 `디자인` 작업 완료
 - 상세 페이지 `퍼블리싱` 시작
 
-  
 ## 241111
-**javaScript**
-- ``
+**jQuery**
+- `show+hide+toggle` 과 `slideUp+slideDown+sldeToggle`에 대해 배웠다.
+- `fqde to+fadeIn+fadeOut+fadeToggle`에 대해 배웠다.
+- `slide` 활용 예제를 작업하였다.
 
 **portfolio**
 - 상세 페이지 `디자인` 작업
   
 ## 241108
-**javaScript**
-- ``
+**jQuery**
+- jQuery의 `선택자 selectors`에 대해 배웠다.
+- jQuery의 여러 `event Method`방식에 대해 배웠다.
 
 **portfolio**
 - 상세 페이지 `디자인` 작업
 
 ## 241107
-**javaScript**
-- ``
+**javaScript / jQuery **
+- 여러 `event`에 대해 배웠다.
+- `jQuery`기본에 대해 배웠다
+- `selector`에 대해 배웠다.
 
 **portfolio**
 - 상세 페이지 `디자인` 작업
 
 ## 241106
 **javaScript**
-- ``
+- `비동기 함수`의 `Queue`, `Stack`, `Tree`에 대해 배웠다.
+- `비동기 함수`를 활용한 예제를 연습하였다.
+- `DOM 객체`에 대해 배웠다.
+- `event`에 대해 배웠다.
 
 **portfolio**
 - `파비콘` 제작 및 등록
 - `마우스 커서` 작업
 - 상세 페이지 `디자인` 작업 시작
 
-
 ## 241105
 **javaScript**
-- ``
+- `this`, `set`, `function` 에 대해 배웠다.
+- `배열` 활용 연습을 하였다.
+- `함수` 활용 연습을 하였다.
 
 **portfolio**
 - `메뉴 수정` 및 `스크립트` 적용
